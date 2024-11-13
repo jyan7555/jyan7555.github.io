@@ -17,9 +17,11 @@ Hi, I am Jason Yan! I am a Ph.D. candidate in the School of Information  at Univ
 
 ## News
 
-- **[Nov. 2024]** Presenting our paper ``Tab2Text'' at EMNLP 2024. 
+- **[Nov. 2024]** Presenting our paper "Tab2Text" at EMNLP 2024. 
 - **[Nov. 2024]** Just defended my prelims and became a candidate! 
 
 {% include_relative _includes/publications.md %}
 
+<!--
 {% include_relative _includes/services.md %}
+-->
