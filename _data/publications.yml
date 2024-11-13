@@ -1,6 +1,6 @@
 main:
 
-  - title: Tab2Text: 
+  - title: Tab2Text
     authors: <strong>Jason Yan*</strong>, <strong>Tong Lin*</strong>, David Jurgens, Sabina Tomkins (*Equal contribution)
     conference_short: EMNLP
     conference: The 2024 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
