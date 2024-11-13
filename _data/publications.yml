@@ -1,11 +1,11 @@
 main:
 
   - title: Tab2Text - A framework for deep learning with tabular data
-    authors: <strong>Jason Yan*</strong>, <strong>Tong Lin*</strong>, David Jurgens, Sabina Tomkins (*Equal contribution)
+    authors: <strong>Jason Yan*</strong>, Tong Lin*, David Jurgens, Sabina Tomkins (*Equal contribution)
     conference_short: EMNLP
     conference: The 2024 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
     pdf: https://aclanthology.org/2024.findings-emnlp.756.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
     #image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
